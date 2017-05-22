@@ -1,0 +1,1 @@
+Caso os diagramas fiquem com visibilidade ruim dentro da documentação, visualizar na Diagramação WhiteStarUml
